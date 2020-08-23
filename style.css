@@ -3,3 +3,8 @@ header {
   background-color: #c4ffb3;
   text-align: center;
 }
+
+.align {
+ padding:10px 20px 30px 40px;
+ margin:10px 20px 30px 40px;
+}
