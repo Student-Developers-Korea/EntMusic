@@ -1,13 +1,16 @@
-
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
   text-align: center;
-  font-family: arial;
-  max-width:300px;
-  margin:auto;
+  cursor: pointer;
+  text-decoration:none;
+  width: 100%;
 }
 
-.price {
-  color: grey;
-  font-size: 22px;
+.button:hover {
+  background-color: #555;
 }
