@@ -14,15 +14,16 @@
 .card button {
   border: none;
   outline: 0;
-  padding: 12px;
+  display: inline-block;
+  padding: 8px;
   color: white;
   background-color: #000;
-  text-decoration:none;
   text-align: center;
   cursor: pointer;
   width: 100%;
-  font-size: 18px;
+  text-decoration:none;
 }
+
 
 .card button:hover {
   opacity: 0.7;
